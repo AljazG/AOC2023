@@ -1,6 +1,6 @@
 package day2;
 
-import common.InputUtils;
+import common.utils.InputUtils;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
 package day1;
 
-import common.InputUtils;
+import common.utils.InputUtils;
 import java.util.*;
 
 public class Day1 {
